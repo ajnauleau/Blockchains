@@ -1,0 +1,14 @@
+[submodule "Bitcoin"]
+	url = https://github.com/bitcoin/bitcoin.git
+[submodule "DeepOnion"]
+	url = https://github.com/deeponion/deeponion.git
+[submodule "Ethereum/CPP-Ethereum"]
+	url = https://github.com/ethereum/cpp-ethereum.git
+[submodule "Ethereum/Go-Ethereum"]
+	url = https://github.com/ethereum/go-ethereum.git
+[submodule "Ethereum/Parity"]
+        url = https://github.com/paritytech/parity.git
+[submodule "Litecoin"]
+	url = https://github.com/litecoin-project/litecoin.git
+[submodule "Monero"]
+	url = https://github.com/monero-project/monero.git
